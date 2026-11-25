@@ -1,14 +1,14 @@
 #C-1
-age = 16
-if age > 15:
-   print('pasport aldiniz')
+age = 18
+if 16 =< age:
+    print("Sen passport algan ekensen")
 else:
-   print('ele kishkene ekensen')
+    print("Sen ali kittay ekensen!")
 
 #C-2
-
 pagoda = "Quyash"
-if pagoda >= "jawin":
-   print('uyde bolamiz')
+
+if pagoda == "Jawmin":
+    print("Uyde oynaymiz")
 else:
-   print("Urra dalada oynaymiz")
+    print("Uraa dalada oynaymiz!")
